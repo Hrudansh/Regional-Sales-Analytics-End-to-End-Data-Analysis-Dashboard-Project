@@ -90,8 +90,12 @@ Businesses lacked visibility into:
 
 ### 📌 Pages:
 1. **Executive Overview & Trends**
-2. **Product & Channel Performance**
-3. **Geographic & Customer Insights**
+![image1](images/image1.png)
+3. **Product & Channel Performance**
+![image2](images/image2.png)
+5. **Geographic & Customer Insights**
+![image3](images/image3.png)
+![image4](images/image4.png)
 
 ### 💡 Features:
 - KPI cards (Total Revenue, Profit, Profit Margin, etc.)
